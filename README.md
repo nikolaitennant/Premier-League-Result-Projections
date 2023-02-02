@@ -1,4 +1,4 @@
-Final Project on Predicting Premier League Results
+# Predicting Premier League Results
 
 Project uses data on the Premier League seasons of 2021/2022 and the current season, 2022/2023. With billions of dollars, football is the most funded sport in the world. For example, the cost of this year’s World Cup is $220 billion.  In addition, bettors stake an average of £2.7 million per Premier League match, and the Premier League and its clubs have a billion social media followers.  Therefore, reliably forecasting the next winner could be helpful in betting, fantasy sports leagues, and overall game enjoyment.
 
